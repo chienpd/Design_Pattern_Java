@@ -2,3 +2,8 @@ Factory pattern is one of the most used design patterns in Java. This type of de
 
 In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
 
+Verify the output:
+
+Inside Circle::draw() method.
+Inside Rectangle::draw() method.
+Inside Square::draw() method.
